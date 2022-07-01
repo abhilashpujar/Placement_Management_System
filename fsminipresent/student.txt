@@ -1,0 +1,8 @@
+Gautham|01|7|CSE|9.4|0|Amazon|1000000|Nil|
+Abhay|04|06|ISE|9.3|00|Amazon|24,00,000|Nil|
+Abhilash|05|06|ISE|8.46|01|SAP_LABS|18,00,000|SDE|
+Harsha|10|06|ISE|8.9|00|Ebay|500000|Nil|
+Muktha|35|06|ISE|8.75|00|Amazon|24,00,000|Nil|
+Kusal|43|06|CSE|9.3|02|Infosys|5,00,000|Nil|
+Dhyan|52|06|ISE|8.77|00|Capgemini|7,00,000|Nil|
+999|999|999|999|999|999|999|999|999|
